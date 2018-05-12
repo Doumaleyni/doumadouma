@@ -1,0 +1,8 @@
+ \documentclass{article}   
+\title{introduction à latex}
+\author{Douma Zourkaleini} 
+\date{Mars 2018}           
+\begin{document}                   
+  \maketitle
+     Bonjour le ggggg Monde !
+\end{document}               
